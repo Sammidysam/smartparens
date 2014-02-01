@@ -47,6 +47,9 @@
 
 (require 'smartparens)
 
+(defun sp-erb-in-erb-tag-p (id action context)
+  nil)
+
 (provide 'smartparens-erb)
 
 ;;; smartparens-erb.el ends here
