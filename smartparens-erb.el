@@ -1,6 +1,6 @@
 ;;; smartparens-erb.el --- Additional configuration for ERB (embedded Ruby).
 
-;; Copyright (C) 2014 Matus Goljer
+;; Copyright (C) 2014 Sam Craig
 
 ;; Author: Sam Craig <sammidysam@gmail.com>
 ;; Maintainer: Matus Goljer <matus.goljer@gmail.com>
@@ -36,6 +36,7 @@
 ;;
 ;; into your configuration.  You can use this in conjunction with the
 ;; default config or your own configuration.
+;;
 
 ;; If you have good ideas about what should be added please file an
 ;; issue on the github tracker.
