@@ -1,6 +1,6 @@
 ;;; smartparens-erb.el --- Additional configuration for ERB (embedded Ruby).
 
-;; Copyright (C) 2013-2014 Matus Goljer
+;; Copyright (C) 2014 Matus Goljer
 
 ;; Author: Sam Craig <sammidysam@gmail.com>
 ;; Maintainer: Matus Goljer <matus.goljer@gmail.com>
