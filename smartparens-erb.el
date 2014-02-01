@@ -44,3 +44,9 @@
 ;; https://github.com/Fuco1/smartparens
 
 ;;; Code:
+
+(require 'smartparens)
+
+(provide 'smartparens-erb)
+
+;;; smartparens-erb.el ends here
