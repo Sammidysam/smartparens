@@ -161,7 +161,9 @@ backward."
        (sp-previous-sexp)))))
 
 (defun sp-html-in-tag-p (id)
-  nil)
+  "Returns t if point is inside an HTML tag, nil otherwise."
+  (and (sp--looking-back-p "[^>]*<")
+       (looking-at-p "[^>]*>")))
 
 (sp-with-modes sp--html-modes
   (sp-local-pair "<" ">")
